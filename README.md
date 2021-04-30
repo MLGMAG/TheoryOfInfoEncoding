@@ -1,1 +1,1 @@
-# TheoryOfInfoEncoding
+# Theory Of Info Encoding
